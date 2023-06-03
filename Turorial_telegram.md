@@ -9,7 +9,9 @@ $ pip freeze > requirements.txt
 ~~~
 
 
-1. [snscrape](https://github.com/bellingcat/snscrape)
+1. **snscrape**
+
+* [snscrape](https://github.com/bellingcat/snscrape)
 
     Console:
     ```text
@@ -20,6 +22,6 @@ $ pip freeze > requirements.txt
     snscrape --max-results 10 --jsonl instagram-user username > instagram-@username_jsonl.txt
     ```
 
-2. [telegram_parser.py](Telegram%2Ftelegram_parser.py)
+* [telegram_snscrape.py](Telegram%2Ftelegram_snscrape.py)
 
 
